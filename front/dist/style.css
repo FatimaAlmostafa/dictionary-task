@@ -1,0 +1,14 @@
+.maindiv {
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin: auto;
+}
+
+.text {
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin: auto;
+    color: brown
+}
